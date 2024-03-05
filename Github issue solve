@@ -1,0 +1,7 @@
+git set-url
+git remote set-url origin git@github.com:sardaralii/ICT-exercise.git
+
+
+ssh-key
+ssh-keygen -t rsa -b 4096 -C "your_email@example.com"
+
